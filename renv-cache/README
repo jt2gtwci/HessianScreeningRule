@@ -1,0 +1,2 @@
+If you want to speed up the building of the singularity container, extract the
+renv cache into this directory after the container has been built

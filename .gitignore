@@ -51,4 +51,4 @@ README.html
 src/.cache
 src/compile_commands.json
 
-/renv-cache/*
+/renv-cache/v*
