@@ -20,9 +20,10 @@ from there. To run an experiment from the singularity container, call
 
     singularity run --no-home --bind results:/project/results container.sif <script>
 
-where `<script>` should be a name of a script in the [experiments
-folder](experiments/), such as `simulateddata.R`. The results will then
-be output to the `results` folder.
+where `<script>` should be a name of a script to run from the
+[experiments folder](experiments/) folder, such as
+`experiments/simulateddata.R`. The results will then be output to the
+`results` folder.
 
 ### Re-building the Singularity Container
 
