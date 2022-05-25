@@ -1,6 +1,6 @@
 Package: HessianScreening
 Title: Hessian-Based Screening Rules for the Lasso
-Version: 0.1.0
+Version: 0.2.0
 Authors@R:
     c(
       person(
